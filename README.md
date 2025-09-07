@@ -17,21 +17,19 @@ This project provides both the complete game logic and an AI agent that can play
 
 ## 📂 Repository Structure  
 
+```text
 Gobblet-Gobblers-AI-Agent/
 │
-├── Game-Project/ # Core game logic and board representation
-│ ├── game.py # Implements Gobblet Gobblers rules
-│ ├── utils.py # Helper functions
-│ └── ...
+├── Game-Project/          # Core game logic and board representation
+│   ├── game.py            # Implements Gobblet Gobblers rules
+│   ├── utils.py           # Helper functions
+│   └── ...
 │
-├── Model-Project/ # AI models and agent logic
-│ ├── agent.py # Main AI decision-making agent
-│ ├── training.py # Model training or search algorithms
-│ └── ...
+├── Model-Project/         # AI models and agent logic
+│   ├── agent.py           # Main AI decision-making agent
+│   ├── training.py        # Model training or search algorithms
+│   └── ...
 │
-├── Gobblet Gobblers.pdf # Game rules and background material
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
-
-
----
+├── Gobblet Gobblers.pdf   # Game rules and background material
+├── requirements.txt       # Dependencies
+└── README.md              # Project documentation
