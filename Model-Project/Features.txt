@@ -1,0 +1,14 @@
+Input for feature list: board size, num of pieces + piece types
+
+Features:
+* position of every piece
+* pieces in every line\column
+* average location
+* spread
+* number of pieces on board
+* number of enemy pieces on board
+* number of pieces in hand
+* number of enemy pieces in hand
+* number of pieces captured
+* number of enemy pieces captured
+* relative time in game (beginning/middle/end)
